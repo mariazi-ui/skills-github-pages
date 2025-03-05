@@ -1,0 +1,10 @@
+#sideNav {
+    height: 100%;
+    width: 240px;
+    border-right: 2px solid black;
+}
+
+#navFooter {
+    margin-top: 412px;
+}
+
